@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(5, 35, 53);
+    #first{
+        background-color: rgb(133, 133, 241);
+        color: rgb(221, 36, 36);
+    }
+    .bg-blue{
+        color: rgba(242, 246, 248, 0.764);
+        border: 1cm;
+        border-color: black;
+    }
+    h1{
+        color: rgb(236, 233, 238);
+    }
+    div{
+        background-color: rgb(145, 120, 229);
+    }
+    #red{
+        background-color: red;
+    }
+    span{
+        background-color: blue;
+        color: aqua;
+        border: 0.2cm solid black;
+    }
+    /*#head{
+        background-color: blue;
+    } */
+
+}
